@@ -1,7 +1,7 @@
 # Proyecto: Análisis de Ventas
 
 ## 📌 Objetivo
-Identificar patrones de compra y estacionalidad en las ventas mensuales.
+Identificar patrones de las ventas mensuales, considerando los fenomenos alrededor de estas.
 
 ## 🛠 Herramientas usadas
 - SQL (BigQuery)
