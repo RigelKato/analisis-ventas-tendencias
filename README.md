@@ -19,3 +19,6 @@ Identificar patrones de compra y estacionalidad en las ventas mensuales.
 
 
 -Link de Dashboard: https://public.tableau.com/views/AnlisisdeVentasyTendencias/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+-Link de Archivos: https://github.com/RigelKato/analisis-ventas-tendencias
